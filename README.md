@@ -37,6 +37,6 @@ We want to keep players up-to-date with the Modern format that may change after 
 
 * [Database Design]()
 
-### [Project Plan]()
+### [Project Plan](https://github.com/yangyaj/MTG-MatchUps/blob/master/Journal.md)
 
 ### [Development Journal]()
