@@ -23,12 +23,6 @@ pages.  JDBCRealm used for authentication (users, users_roles, and roles table).
 1. User clicks on decks page.
 1. Servlet uses the decks dao to get all decks.
 1. User chooses deck which deck they want to view.
-1. Dao performs select and creates report objects from results.
-1. Dao returns list of report matching criteria to servlet.
-1. Servlet sends list back to trail reports jsp.
-1. Trail reports jsp displays the reports.
-1. Consider paging results so page does not get super long and too much data
-is sent.
 
 ### About
 
